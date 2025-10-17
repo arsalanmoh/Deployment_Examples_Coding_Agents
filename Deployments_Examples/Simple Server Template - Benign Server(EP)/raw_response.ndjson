@@ -1,0 +1,142 @@
+{"type":"patch-start","data":{"s":[{"id":"28f77d4b-cf24-817b-a40a-00aa6c7f5fcd","type":"agent-turn-full-record-map"}]},"version":1}
+{"type":"patch","v":[{"o":"a","p":"/s/-","v":{"id":"28f77d4b-cf24-8177-a6c4-00aaddf88ead","type":"agent-inference","value":[{"type":"thinking","id":"rs_0ef67e19e526458e0168f1a73684f881a28b7952df88055e1e","content":"","encryptedContent":"gAAAAABo8ac5rfSZmAtimsyT-hK3zd4iWyWUkTkPBcQTjHUaZN78OZ4Fsp8cANaL2LzTJyjm21joe9lR8vxfZeEX8oxAqljNkqQEaN57-MiJUssIizFH7MCPdekxX3E0X-zHvN9VFQDiGUEypKfEwOKAtIzQGkVCn04aB0uLFQwmerJODIXYyCBP85Zl8ugjC0Y_oIYhxdaOkPSK4Qb6GaKl2YUDanR1FV8aburZsOpdiytczVKX40gNM0RiK_hK_PB9lgIEbhGuTguVVFgL3sc-5JS2jQ8yQva-apPhGZKC8Iw0UwSCqiY3vNtTEbM1s2SQo73H9YMH6x9ebt218RsE5sLuOu1IJNiTKy8OTOfoYxOt9RCAmCvK8toLZ0QtHdX9_jMkztUL6oTaoe7vfcCxp6aql-E377takjtME3dvpYpX_qJlOvSn7HxU1dAj--mFrS8uQ4lSI-IBEvL40AENNoiy3H9RVf440M5na-dVfv4RyiiAZbGorm4fY0KKMGQz5Tg-B7SiMCnKGGMGzD36POHeHk8k8OTef3eaBOHEONMDW6PAj-InqaQkjKwGiU9ZmzsxP2eq_Zy0gPFCkqh0H7ejTWRU4Vfu4svjCGA5cMtvTjoxU3puC3YnjAosgLvbiWzPRgirInhly_iXwczSpx34rczPS3uVHyr_GWVxucY7Cf54HFJbe3BwU-Ag1XCFIBU6Tn-a1o9-8UlavZHbEVX5B4bmCLAUFkokSNqHFbpAkMnHfgXGZHblmwFpqbCcaQgqc4f55ARTUjhVS1bwsJOmYfIxpvU9q5ECvQ0N3zW5n4lcEeqha-vRjy_BqdKBO46-cseycLBMU92ShIMMRJUxDxRvyIVd_0JaXNrGC9fUowq8Ewbnzf3AIBF05-Sw3zzDRV0LgqQZa9qTNLdouV4Kyi5MF0RcLtnqmZh2nebWB4YXluEYt-ePoPB9PMbNjPOuv6wCyBrHrNytFAxc3aDxD7mruV29Fv2eWn-qsl9S-t19YTBJ23qr6YRV5yKfRHkzqLgp4-BeX8_Ylh5xKjb2J38220lRobcZ2eQ3DdcUKan-TQSyI5az5KUPtaxx9XFqY5MB0fSjM6hvsCBp2L97MgUp8RaRuokzXyvsQHRdwKpu4O-h8xokdeYIT5hzx6YsOtljFBce0Lhf3fU6KXHM6C8Kqev0g1FCvyBaA6_CaUnObCK0iaJk94ZACn-35sIf9l4VGlHLVOcv842oWidrCHLfxf__cKJuojTjjYFjjGxAP-BvLz2tz_nG1TisEhjG99WKnVX3SU62qU3wzMNRwbBDe6rzYVrHEf7VhJAnjWgSPwF4CMePPcAYtlDAq29m4uMRMtr0ld7RPLVAxRB67KLVEKokaq1YdIEmll3FkjL87pot9_bwGkc7bR-SraH42gJDn07iAq7ny0N_8fFlff-IE-vzseJagEjy3DQBMhYxEiqPM9retdylmnHae1HP4SA_rOysCD_Uh-ccXlmck_7q6Ln2IazC_RtnrwwvxQxDcX1A8HmboYIbILwJlnIa5jNfpnCn9c-WQd6PiOVpaCDuJWkj-L2iVdxk1q3OuLB0glrlZDGUCA1o89Sq0k55wrfoX68dAYAkq_K97lrFF0Z1QA9PLywwLDSjCBvDgXhOBIVBmGpkVTKh9pqT3E3POFxHzLxPTwK0LCm8oF5XV7wQUHiLSF7jJEsFQ5pyK0J3eBR1SZoScFbkvRO1At96SNlCA6iQgDpJ7Ip3mdhiOkqvMoQfO-iXrUHqhP8-iJ8He1Gw4EmVt_OMbhJqyONsIwXuPeJLW_rEPN4FfSKI6L92o8nCwpNPjybPlqZk78qLWx_s2ESRhuAdFw_FSrcLQdKMKvxrSNQS4PBf-4ubOZj1YL9ix2h2tvBcRd3FDTIVnUA6WxRKEMsMt-yRwQHMFCE4ZzYv2sAjWScvsH2UhadwEJmKpYRFsRnPRSOmzZJimbtxQyULXT-8syvFWNx0uQ9oIK6JIUnuBPPXyOY_kNzd7cgAi_i1AAgThrP3Wj-jNtCbbLYeDZxRNh281lM2p2m_W4ol1J25vubXhSKGGmze9j4MeuOoBGf7ckJjDAJKw78=","startedAt":1760667449176}],"traceId":"9f5c1ab3-d616-416c-a3cc-9380023681ac","startedAt":1760667444389,"previousAttemptValues":[]}}]}
+{"type":"patch","v":[{"o":"a","p":"/s/1/value/0/finishedAt","v":1760667449182},{"o":"a","p":"/s/1/value/-","v":{"type":"text","content":"<"}}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":"lang"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" primary"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":"=\""}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":"en"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":"-US"}]}
+{"type":"patch","v":[{"o":"p","p":"/s/1/value/1/content","v":""}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":"Do"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" you"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" want"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" one"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" contract"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" or"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" multiple"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" variants"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":"?"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" If"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" multiple"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":","}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" I"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" can"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" prepare"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" two"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" ready"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":"-to"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":"-send"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" versions"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":":\n"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":"-"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" Fixed"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":"-fe"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":"e"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" agreement"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":"\n"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":"-"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" Time"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":"-and"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":"-material"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":"s"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" agreement"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":"\n\n"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":"Share"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" for"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" each"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" client"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":":\n"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":"-"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" Client"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" legal"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" name"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" and"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" address"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":"\n"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":"-"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" Client"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" sign"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":"atory"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" name"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" and"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" title"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":"\n"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":"-"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" Notices"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" email"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":"\n"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":"-"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" Pricing"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":":"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" fixed"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" amount"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":","}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" or"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" hourly"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" rate"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" and"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" not"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":"-to"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":"-ex"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":"ceed"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" cap"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":"\n"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":"-"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" Start"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" and"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" end"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" dates"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" if"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" different"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" from"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" what"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":"’s"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" in"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" the"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" draft"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":"\n"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":"-"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" Scope"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" for"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" Appendix"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" A"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" and"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" priority"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" Security"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" Sc"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":"enarios"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" for"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" Appendix"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" B"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":"\n\n"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":"Once"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" you"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" provide"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" these"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":","}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" I"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":"’ll"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" fill"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" the"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" placeholders"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" on"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" Contract"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" Draft"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" and"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" generate"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" separate"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" versions"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" if"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":" needed"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":".["}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":"^"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":"{{"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":"not"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":"ion"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":"-"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":"16"}]}
+{"type":"patch","v":[{"o":"p","p":"/s/1/value/1/content","v":"Do you want one contract or multiple variants? If multiple, I can prepare two ready-to-send versions:\n- Fixed-fee agreement\n- Time-and-materials agreement\n\nShare for each client:\n- Client legal name and address\n- Client signatory name and title\n- Notices email\n- Pricing: fixed amount, or hourly rate and not-to-exceed cap\n- Start and end dates if different from what’s in the draft\n- Scope for Appendix A and priority Security Scenarios for Appendix B\n\nOnce you provide these, I’ll fill the placeholders on Contract Draft and generate separate versions if needed.[^https://www.notion.so/28c77d4bcf248008bbf6d39b12bf81c9"}]}
+{"type":"patch","v":[{"o":"x","p":"/s/1/value/1/content","v":"]"}]}
+{"type":"patch","v":[{"o":"a","p":"/s/1/finishedAt","v":1760667450216},{"o":"a","p":"/s/1/inputTokens","v":30154},{"o":"a","p":"/s/1/outputTokens","v":271},{"o":"a","p":"/s/1/cachedTokensRead","v":29568},{"o":"a","p":"/s/1/cachedTokensCreated"},{"o":"a","p":"/s/1/maxContextTokens","v":400000},{"o":"a","p":"/s/1/maxInputTokens","v":272000}]}
+{"type":"patch","v":[{"o":"a","p":"/s/0/recordVersions","v":[]}]}
+{"type":"record-map","recordMap":{"__version__":3,"thread_message":{"28f77d4b-cf24-817b-a40a-00aa6c7f5fcd":{"spaceId":"ac16b5bf-32cd-49e5-a9c6-7a7f52445cd1","value":{"value":{"id":"28f77d4b-cf24-817b-a40a-00aa6c7f5fcd","version":2,"space_id":"ac16b5bf-32cd-49e5-a9c6-7a7f52445cd1","step":{"id":"28f77d4b-cf24-817b-a40a-00aa6c7f5fcd","type":"agent-turn-full-record-map"},"parent_id":"28f77d4b-cf24-8047-a5c8-00a903f9b563","parent_table":"thread","created_by_id":"2e7b907e-5e54-4735-855c-2ad39ea5e156","created_by_table":"notion_user","created_time":1760667444388,"data":{"inference_id":"9f5c1ab3-d616-416c-a3cc-9380023681ac","completed":true,"completed_time":1760667450241}},"role":"editor"}},"28f77d4b-cf24-8177-a6c4-00aaddf88ead":{"spaceId":"ac16b5bf-32cd-49e5-a9c6-7a7f52445cd1","value":{"value":{"id":"28f77d4b-cf24-8177-a6c4-00aaddf88ead","version":3,"space_id":"ac16b5bf-32cd-49e5-a9c6-7a7f52445cd1","step":{"id":"28f77d4b-cf24-8177-a6c4-00aaddf88ead","type":"agent-inference","value":[{"type":"thinking","id":"rs_0ef67e19e526458e0168f1a73684f881a28b7952df88055e1e","content":"","encryptedContent":"gAAAAABo8ac5rfSZmAtimsyT-hK3zd4iWyWUkTkPBcQTjHUaZN78OZ4Fsp8cANaL2LzTJyjm21joe9lR8vxfZeEX8oxAqljNkqQEaN57-MiJUssIizFH7MCPdekxX3E0X-zHvN9VFQDiGUEypKfEwOKAtIzQGkVCn04aB0uLFQwmerJODIXYyCBP85Zl8ugjC0Y_oIYhxdaOkPSK4Qb6GaKl2YUDanR1FV8aburZsOpdiytczVKX40gNM0RiK_hK_PB9lgIEbhGuTguVVFgL3sc-5JS2jQ8yQva-apPhGZKC8Iw0UwSCqiY3vNtTEbM1s2SQo73H9YMH6x9ebt218RsE5sLuOu1IJNiTKy8OTOfoYxOt9RCAmCvK8toLZ0QtHdX9_jMkztUL6oTaoe7vfcCxp6aql-E377takjtME3dvpYpX_qJlOvSn7HxU1dAj--mFrS8uQ4lSI-IBEvL40AENNoiy3H9RVf440M5na-dVfv4RyiiAZbGorm4fY0KKMGQz5Tg-B7SiMCnKGGMGzD36POHeHk8k8OTef3eaBOHEONMDW6PAj-InqaQkjKwGiU9ZmzsxP2eq_Zy0gPFCkqh0H7ejTWRU4Vfu4svjCGA5cMtvTjoxU3puC3YnjAosgLvbiWzPRgirInhly_iXwczSpx34rczPS3uVHyr_GWVxucY7Cf54HFJbe3BwU-Ag1XCFIBU6Tn-a1o9-8UlavZHbEVX5B4bmCLAUFkokSNqHFbpAkMnHfgXGZHblmwFpqbCcaQgqc4f55ARTUjhVS1bwsJOmYfIxpvU9q5ECvQ0N3zW5n4lcEeqha-vRjy_BqdKBO46-cseycLBMU92ShIMMRJUxDxRvyIVd_0JaXNrGC9fUowq8Ewbnzf3AIBF05-Sw3zzDRV0LgqQZa9qTNLdouV4Kyi5MF0RcLtnqmZh2nebWB4YXluEYt-ePoPB9PMbNjPOuv6wCyBrHrNytFAxc3aDxD7mruV29Fv2eWn-qsl9S-t19YTBJ23qr6YRV5yKfRHkzqLgp4-BeX8_Ylh5xKjb2J38220lRobcZ2eQ3DdcUKan-TQSyI5az5KUPtaxx9XFqY5MB0fSjM6hvsCBp2L97MgUp8RaRuokzXyvsQHRdwKpu4O-h8xokdeYIT5hzx6YsOtljFBce0Lhf3fU6KXHM6C8Kqev0g1FCvyBaA6_CaUnObCK0iaJk94ZACn-35sIf9l4VGlHLVOcv842oWidrCHLfxf__cKJuojTjjYFjjGxAP-BvLz2tz_nG1TisEhjG99WKnVX3SU62qU3wzMNRwbBDe6rzYVrHEf7VhJAnjWgSPwF4CMePPcAYtlDAq29m4uMRMtr0ld7RPLVAxRB67KLVEKokaq1YdIEmll3FkjL87pot9_bwGkc7bR-SraH42gJDn07iAq7ny0N_8fFlff-IE-vzseJagEjy3DQBMhYxEiqPM9retdylmnHae1HP4SA_rOysCD_Uh-ccXlmck_7q6Ln2IazC_RtnrwwvxQxDcX1A8HmboYIbILwJlnIa5jNfpnCn9c-WQd6PiOVpaCDuJWkj-L2iVdxk1q3OuLB0glrlZDGUCA1o89Sq0k55wrfoX68dAYAkq_K97lrFF0Z1QA9PLywwLDSjCBvDgXhOBIVBmGpkVTKh9pqT3E3POFxHzLxPTwK0LCm8oF5XV7wQUHiLSF7jJEsFQ5pyK0J3eBR1SZoScFbkvRO1At96SNlCA6iQgDpJ7Ip3mdhiOkqvMoQfO-iXrUHqhP8-iJ8He1Gw4EmVt_OMbhJqyONsIwXuPeJLW_rEPN4FfSKI6L92o8nCwpNPjybPlqZk78qLWx_s2ESRhuAdFw_FSrcLQdKMKvxrSNQS4PBf-4ubOZj1YL9ix2h2tvBcRd3FDTIVnUA6WxRKEMsMt-yRwQHMFCE4ZzYv2sAjWScvsH2UhadwEJmKpYRFsRnPRSOmzZJimbtxQyULXT-8syvFWNx0uQ9oIK6JIUnuBPPXyOY_kNzd7cgAi_i1AAgThrP3Wj-jNtCbbLYeDZxRNh281lM2p2m_W4ol1J25vubXhSKGGmze9j4MeuOoBGf7ckJjDAJKw78=","startedAt":1760667449176,"finishedAt":1760667449182},{"type":"text","content":"<lang primary=\"en-US\"/>\nDo you want one contract or multiple variants? If multiple, I can prepare two ready-to-send versions:\n- Fixed-fee agreement\n- Time-and-materials agreement\n\nShare for each client:\n- Client legal name and address\n- Client signatory name and title\n- Notices email\n- Pricing: fixed amount, or hourly rate and not-to-exceed cap\n- Start and end dates if different from what’s in the draft\n- Scope for Appendix A and priority Security Scenarios for Appendix B\n\nOnce you provide these, I’ll fill the placeholders on Contract Draft and generate separate versions if needed.[^https://www.notion.so/28c77d4bcf248008bbf6d39b12bf81c9]"}],"traceId":"9f5c1ab3-d616-416c-a3cc-9380023681ac","startedAt":1760667444389,"finishedAt":1760667450216,"inputTokens":30154,"outputTokens":271,"cachedTokensRead":29568,"maxContextTokens":400000,"maxInputTokens":272000},"parent_id":"28f77d4b-cf24-8047-a5c8-00a903f9b563","parent_table":"thread","created_by_id":"2e7b907e-5e54-4735-855c-2ad39ea5e156","created_by_table":"notion_user","created_time":1760667449445,"data":{"inference_id":"9f5c1ab3-d616-416c-a3cc-9380023681ac","completed":true,"completed_time":1760667450241}},"role":"editor"}}},"thread":{"28f77d4b-cf24-8047-a5c8-00a903f9b563":{"spaceId":"ac16b5bf-32cd-49e5-a9c6-7a7f52445cd1","value":{"value":{"id":"28f77d4b-cf24-8047-a5c8-00a903f9b563","version":284,"space_id":"ac16b5bf-32cd-49e5-a9c6-7a7f52445cd1","messages":["28f77d4b-cf24-804a-a612-00aa36580773","28f77d4b-cf24-809f-87d1-00aa0b74e8b4","28f77d4b-cf24-800d-84a4-00aac449c230","28f77d4b-cf24-81a3-bcfd-00aa6ccccf41","28f77d4b-cf24-816c-9183-00aaffec67a1","28f77d4b-cf24-816c-94a6-00aaf1e5ab71","28f77d4b-cf24-81fb-b13c-00aad669c86a","28f77d4b-cf24-812c-8517-00aae62b58ed","28f77d4b-cf24-81a7-808e-00aad1eebbc6","28f77d4b-cf24-81c0-8810-00aa3af30249","28f77d4b-cf24-81f3-92e6-00aa71298977","28f77d4b-cf24-814e-b44b-00aab894df75","28f77d4b-cf24-8192-ab4c-00aaa5a6fe84","28f77d4b-cf24-81d6-b023-00aab7bf6bae","28f77d4b-cf24-8146-8733-00aa61750e55","28f77d4b-cf24-815e-93e1-00aa08382084","28f77d4b-cf24-8193-9c18-00aade53b3a4","28f77d4b-cf24-81e5-809b-00aa1abb490a","28f77d4b-cf24-81a0-8d1e-00aa73508fcf","28f77d4b-cf24-81af-bc33-00aa217fa742","28f77d4b-cf24-8151-b2fe-00aa72f347d8","28f77d4b-cf24-8135-8e1d-00aad0c3b0b8","28f77d4b-cf24-8106-aceb-00aab349d2ae","28f77d4b-cf24-816b-b366-00aa288c9c49","28f77d4b-cf24-8125-874c-00aa8d3295fa","28f77d4b-cf24-818d-966c-00aa2e06de07","28f77d4b-cf24-81da-a3b5-00aa85149433","28f77d4b-cf24-8129-9a58-00aa03bf7871","28f77d4b-cf24-8170-8cd1-00aa70460363","28f77d4b-cf24-81cb-83a3-00aad7e5e377","28f77d4b-cf24-81ae-a645-00aa74abae59","28f77d4b-cf24-81fe-8ebe-00aaa653878e","28f77d4b-cf24-810d-9a19-00aa187bca2a","28f77d4b-cf24-81dd-b0f0-00aafa43255e","28f77d4b-cf24-81ec-ad6f-00aabfa1223e","28f77d4b-cf24-81c3-bd04-00aa9cd59e2d","28f77d4b-cf24-8170-ab77-00aa233d1daa","28f77d4b-cf24-819c-a8b6-00aa04c29a44","28f77d4b-cf24-8187-b07a-00aa17d2d926","28f77d4b-cf24-81bf-a5ae-00aab7ba0511","28f77d4b-cf24-8061-9c5a-00aabe7bd1f6","28f77d4b-cf24-8194-b4fd-00aad27feda5","28f77d4b-cf24-8126-8479-00aa88755f09","28f77d4b-cf24-818d-af8e-00aae048c586","28f77d4b-cf24-8148-b2b3-00aa99d21115","28f77d4b-cf24-81b5-b244-00aa280fc09d","28f77d4b-cf24-81d0-97bf-00aa95403e72","28f77d4b-cf24-817b-a40a-00aa6c7f5fcd","28f77d4b-cf24-8177-a6c4-00aaddf88ead"],"parent_id":"ac16b5bf-32cd-49e5-a9c6-7a7f52445cd1","parent_table":"space","created_by_id":"2e7b907e-5e54-4735-855c-2ad39ea5e156","created_by_table":"notion_user","created_time":1760666138537,"data":{"title":"Prepare contract"},"alive":true,"type":"workflow"},"role":"editor"}}}}}

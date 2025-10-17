@@ -1,0 +1,96 @@
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Host www.notion.so:443 was resolved.
+* IPv6: (none)
+* IPv4: 208.103.161.2, 208.103.161.1
+*   Trying 208.103.161.2:443...
+* Connected to www.notion.so (208.103.161.2) port 443
+* ALPN: curl offers h2,http/1.1
+* (304) (OUT), TLS handshake, Client hello (1):
+} [318 bytes data]
+*  CAfile: /etc/ssl/cert.pem
+*  CApath: none
+* (304) (IN), TLS handshake, Server hello (2):
+{ [122 bytes data]
+* (304) (IN), TLS handshake, Unknown (8):
+{ [19 bytes data]
+* (304) (IN), TLS handshake, Certificate (11):
+{ [2573 bytes data]
+* (304) (IN), TLS handshake, CERT verify (15):
+{ [80 bytes data]
+* (304) (IN), TLS handshake, Finished (20):
+{ [36 bytes data]
+* (304) (OUT), TLS handshake, Finished (20):
+} [36 bytes data]
+* SSL connection using TLSv1.3 / AEAD-CHACHA20-POLY1305-SHA256 / [blank] / UNDEF
+* ALPN: server accepted h2
+* Server certificate:
+*  subject: CN=notion.so
+*  start date: Aug 24 21:17:54 2025 GMT
+*  expire date: Nov 22 22:17:27 2025 GMT
+*  subjectAltName: host "www.notion.so" matched cert's "*.notion.so"
+*  issuer: C=US; O=Google Trust Services; CN=WE1
+*  SSL certificate verify ok.
+* using HTTP/2
+* [HTTP/2] [1] OPENED stream for https://www.notion.so/api/v3/runInferenceTranscript
+* [HTTP/2] [1] [:method: POST]
+* [HTTP/2] [1] [:scheme: https]
+* [HTTP/2] [1] [:authority: www.notion.so]
+* [HTTP/2] [1] [:path: /api/v3/runInferenceTranscript]
+* [HTTP/2] [1] [user-agent: curl/8.7.1]
+* [HTTP/2] [1] [cookie: notion_user_id=2e7b907e-5e54-4735-855c-2ad39ea5e156; token_v2=v03%3AeyJhbGciOiJkaXIiLCJraWQiOiJwcm9kdWN0aW9uOnRva2VuLXYzOjIwMjQtMTEtMDciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIn0..AmORV9_8vt9Z0UAm0-z1Bg.UDDJcKwHTK8tIXMrhKJa9co91hk2hYrynrYZt9crIIiy6i0hzQuUYiV4aTHfjth5dUwHBpsdGgiID1rpfm-U_TSWP12n2wtpuFoMHc7bFnJKLLYr26kbVSQF-_3jFjPJF4URbT9qvRRs3HLWG4XGyjOsQp6TjYKfxTf6BGWQKR8XLSM8wtrvE23J6_ip_vlRlHEMQw5O7XnXiJZ-iXOD-m3mxo-QfO3ZuSH8QV5IdPp8X9KZDMceDlu8DB1YQizE3JduEsOjP2IQ20v5JWvg04AnjthW98aGC1pRqXiZD2brUQhDyTeMeHYWEIqaA8ozrQyk5jcfAH2oVzGj1evr9HZ65SjdYBrAlEe7bm7g460.xOfIcu6yZESQ_Q7AqGk4_SFKTsd7qVFaf9caNCNDxVg]
+* [HTTP/2] [1] [content-type: application/json]
+* [HTTP/2] [1] [accept: application/x-ndjson]
+* [HTTP/2] [1] [x-notion-active-user-header: 2e7b907e-5e54-4735-855c-2ad39ea5e156]
+* [HTTP/2] [1] [content-length: 369]
+> POST /api/v3/runInferenceTranscript HTTP/2
+> Host: www.notion.so
+> User-Agent: curl/8.7.1
+> Cookie: notion_user_id=2e7b907e-5e54-4735-855c-2ad39ea5e156; token_v2=v03%3AeyJhbGciOiJkaXIiLCJraWQiOiJwcm9kdWN0aW9uOnRva2VuLXYzOjIwMjQtMTEtMDciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIn0..AmORV9_8vt9Z0UAm0-z1Bg.UDDJcKwHTK8tIXMrhKJa9co91hk2hYrynrYZt9crIIiy6i0hzQuUYiV4aTHfjth5dUwHBpsdGgiID1rpfm-U_TSWP12n2wtpuFoMHc7bFnJKLLYr26kbVSQF-_3jFjPJF4URbT9qvRRs3HLWG4XGyjOsQp6TjYKfxTf6BGWQKR8XLSM8wtrvE23J6_ip_vlRlHEMQw5O7XnXiJZ-iXOD-m3mxo-QfO3ZuSH8QV5IdPp8X9KZDMceDlu8DB1YQizE3JduEsOjP2IQ20v5JWvg04AnjthW98aGC1pRqXiZD2brUQhDyTeMeHYWEIqaA8ozrQyk5jcfAH2oVzGj1evr9HZ65SjdYBrAlEe7bm7g460.xOfIcu6yZESQ_Q7AqGk4_SFKTsd7qVFaf9caNCNDxVg
+> content-type: application/json
+> accept: application/x-ndjson
+> x-notion-active-user-header: 2e7b907e-5e54-4735-855c-2ad39ea5e156
+> Content-Length: 369
+> 
+} [369 bytes data]
+* upload completely sent off: 369 bytes
+< HTTP/2 400 
+< date: Fri, 17 Oct 2025 02:25:54 GMT
+< content-type: application/json; charset=utf-8
+< content-length: 147
+< cf-ray: 98fc591c28b767cb-SJC
+< cf-cache-status: DYNAMIC
+< etag: W/"93-v4fyJtOaK+DnHJzLUi9O26TgC2I"
+* Added cookie notion_browser_id="2340f0e2-9e27-4257-9e4c-ea93de31739d" for domain www.notion.so, path /, expire 1792203954
+< set-cookie: notion_browser_id=2340f0e2-9e27-4257-9e4c-ea93de31739d; Domain=www.notion.so; Path=/; Expires=Sat, 17 Oct 2026 02:25:54 GMT; Secure
+< strict-transport-security: max-age=31536000; includeSubDomains; preload
+< vary: Accept-Encoding
+< alt-svc: h3=":443"; ma=86400
+< content-security-policy: default-src 'none'
+< referrer-policy: strict-origin-when-cross-origin
+< server-timing: r;dur=364
+< x-content-type-options: nosniff
+< x-dns-prefetch-control: off
+< x-download-options: noopen
+< x-frame-options: SAMEORIGIN
+< x-notion-cell-mapping: space-id ac16b5bf-32cd-49e5-a9c6-7a7f52445cd1=prod-space-usw2-0002
+< x-notion-request-id: e84245cf-a7b5-4651-995c-af4d00bbd903
+< x-permitted-cross-domain-policies: none
+< x-xss-protection: 0
+* Added cookie device_id="28fd872b-594c-8102-bc55-003bd52948b9" for domain www.notion.so, path /, expire 1792203954
+< set-cookie: device_id=28fd872b-594c-8102-bc55-003bd52948b9; Domain=www.notion.so; Path=/; Expires=Sat, 17 Oct 2026 02:25:54 GMT; HttpOnly; Secure
+* Added cookie notion_check_cookie_consent="false" for domain www.notion.so, path /, expire 1760754354
+< set-cookie: notion_check_cookie_consent=false; Domain=www.notion.so; Path=/; Expires=Sat, 18 Oct 2025 02:25:54 GMT; Secure
+* Added cookie __cf_bm="SGNscdr6HD0abrUv9czPYQUTwUvOeBqY7qMsexhIwPQ-1760667954-1.0.1.1-kAQmocgmDTawoXwD23UhTromqNhucz1HbRMlRV7RNpHcGYgF8xh0omPFJ9HDB0BiLQIM9srZTGpvg8AVHEEAR49Y7sL0WAggCTJEqgYRf.o" for domain notion.so, path /, expire 1760669754
+< set-cookie: __cf_bm=SGNscdr6HD0abrUv9czPYQUTwUvOeBqY7qMsexhIwPQ-1760667954-1.0.1.1-kAQmocgmDTawoXwD23UhTromqNhucz1HbRMlRV7RNpHcGYgF8xh0omPFJ9HDB0BiLQIM9srZTGpvg8AVHEEAR49Y7sL0WAggCTJEqgYRf.o; path=/; expires=Fri, 17-Oct-25 02:55:54 GMT; domain=.notion.so; HttpOnly; Secure; SameSite=None
+* Added cookie _cfuvid="5WDBWAAmR5Be109oD65_2Jfg2yYVo.xmUi8.yFcAVkk-1760667954717-0.0.1.1-604800000" for domain notion.so, path /, expire 0
+< set-cookie: _cfuvid=5WDBWAAmR5Be109oD65_2Jfg2yYVo.xmUi8.yFcAVkk-1760667954717-0.0.1.1-604800000; path=/; domain=.notion.so; HttpOnly; Secure; SameSite=None
+* Replaced cookie __cf_bm="IfNbomY3jqFtMKBncN5_8R_7vk9jd7v31Sf7.0zzq08-1760667954-1.0.1.1-6jr6Hg3QaTPIDFZ6KFUy.lCnE0xMy1OTYI5mlpDdfjVCdJg06NjIwDFnkwS7xSbdpAjGK26LqMOZtejZyXxEfoiwtdd9TFCQitOIrD3HxX0" for domain notion.so, path /, expire 1760669754
+< set-cookie: __cf_bm=IfNbomY3jqFtMKBncN5_8R_7vk9jd7v31Sf7.0zzq08-1760667954-1.0.1.1-6jr6Hg3QaTPIDFZ6KFUy.lCnE0xMy1OTYI5mlpDdfjVCdJg06NjIwDFnkwS7xSbdpAjGK26LqMOZtejZyXxEfoiwtdd9TFCQitOIrD3HxX0; path=/; expires=Fri, 17-Oct-25 02:55:54 GMT; domain=.notion.so; HttpOnly; Secure; SameSite=None
+* Replaced cookie _cfuvid="f8d.8TeyDDrsz_Io8F9eSpjeDG_bvoo.EqsAnaSI9o8-1760667954748-0.0.1.1-604800000" for domain notion.so, path /, expire 0
+< set-cookie: _cfuvid=f8d.8TeyDDrsz_Io8F9eSpjeDG_bvoo.EqsAnaSI9o8-1760667954748-0.0.1.1-604800000; path=/; domain=.notion.so; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< 
+{ [147 bytes data]
+100   516  100   147  100   369    551   1383 --:--:-- --:--:-- --:--:--  1939
+* Connection #0 to host www.notion.so left intact

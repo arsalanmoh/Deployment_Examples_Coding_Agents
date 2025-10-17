@@ -1,0 +1,99 @@
+Note: Unnecessary use of -X or --request, POST is already inferred.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Host www.notion.so:443 was resolved.
+* IPv6: (none)
+* IPv4: 208.103.161.1, 208.103.161.2
+*   Trying 208.103.161.1:443...
+* Connected to www.notion.so (208.103.161.1) port 443
+* ALPN: curl offers h2,http/1.1
+* (304) (OUT), TLS handshake, Client hello (1):
+} [318 bytes data]
+*  CAfile: /etc/ssl/cert.pem
+*  CApath: none
+* (304) (IN), TLS handshake, Server hello (2):
+{ [122 bytes data]
+* (304) (IN), TLS handshake, Unknown (8):
+{ [19 bytes data]
+* (304) (IN), TLS handshake, Certificate (11):
+{ [2573 bytes data]
+* (304) (IN), TLS handshake, CERT verify (15):
+{ [78 bytes data]
+* (304) (IN), TLS handshake, Finished (20):
+{ [36 bytes data]
+* (304) (OUT), TLS handshake, Finished (20):
+} [36 bytes data]
+* SSL connection using TLSv1.3 / AEAD-CHACHA20-POLY1305-SHA256 / [blank] / UNDEF
+* ALPN: server accepted h2
+* Server certificate:
+*  subject: CN=notion.so
+*  start date: Aug 24 21:17:54 2025 GMT
+*  expire date: Nov 22 22:17:27 2025 GMT
+*  subjectAltName: host "www.notion.so" matched cert's "*.notion.so"
+*  issuer: C=US; O=Google Trust Services; CN=WE1
+*  SSL certificate verify ok.
+* using HTTP/2
+* [HTTP/2] [1] OPENED stream for https://www.notion.so/api/v3/runInferenceTranscript
+* [HTTP/2] [1] [:method: POST]
+* [HTTP/2] [1] [:scheme: https]
+* [HTTP/2] [1] [:authority: www.notion.so]
+* [HTTP/2] [1] [:path: /api/v3/runInferenceTranscript]
+* [HTTP/2] [1] [content-type: application/json]
+* [HTTP/2] [1] [accept: application/x-ndjson]
+* [HTTP/2] [1] [accept-encoding: gzip, deflate, br, zstd]
+* [HTTP/2] [1] [cookie: token_v2=v03%3AeyJhbGciOiJkaXIiLCJraWQiOiJwcm9kdWN0aW9uOnRva2VuLXYzOjIwMjQtMTEtMDciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIn0..AmORV9_8vt9Z0UAm0-z1Bg.UDDJcKwHTK8tIXMrhKJa9co91hk2hYrynrYZt9crIIiy6i0hzQuUYiV4aTHfjth5dUwHBpsdGgiID1rpfm-U_TSWP12n2wtpuFoMHc7bFnJKLLYr26kbVSQF-_3jFjPJF4URbT9qvRRs3HLWG4XGyjOsQp6TjYKfxTf6BGWQKR8XLSM8wtrvE23J6_ip_vlRlHEMQw5O7XnXiJZ-iXOD-m3mxo-QfO3ZuSH8QV5IdPp8X9KZDMceDlu8DB1YQizE3JduEsOjP2IQ20v5JWvg04AnjthW98aGC1pRqXiZD2brUQhDyTeMeHYWEIqaA8ozrQyk5jcfAH2oVzGj1evr9HZ65SjdYBrAlEe7bm7g460.xOfIcu6yZESQ_Q7AqGk4_SFKTsd7qVFaf9caNCNDxVg; notion_user_id=2e7b907e-5e54-4735-855c-2ad39ea5e156]
+* [HTTP/2] [1] [notion-audit-log-platform: web]
+* [HTTP/2] [1] [notion-client-version: 23.13.20251016.2237]
+* [HTTP/2] [1] [origin: https://www.notion.so]
+* [HTTP/2] [1] [user-agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36]
+* [HTTP/2] [1] [x-notion-active-user-header: 2e7b907e-5e54-4735-855c-2ad39ea5e156]
+* [HTTP/2] [1] [x-notion-space-id: ac16b5bf-32cd-49e5-a9c6-7a7f52445cd1]
+* [HTTP/2] [1] [content-length: 2858]
+> POST /api/v3/runInferenceTranscript HTTP/2
+> Host: www.notion.so
+> Content-Type: application/json
+> Accept: application/x-ndjson
+> Accept-Encoding: gzip, deflate, br, zstd
+> Cookie: token_v2=v03%3AeyJhbGciOiJkaXIiLCJraWQiOiJwcm9kdWN0aW9uOnRva2VuLXYzOjIwMjQtMTEtMDciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIn0..AmORV9_8vt9Z0UAm0-z1Bg.UDDJcKwHTK8tIXMrhKJa9co91hk2hYrynrYZt9crIIiy6i0hzQuUYiV4aTHfjth5dUwHBpsdGgiID1rpfm-U_TSWP12n2wtpuFoMHc7bFnJKLLYr26kbVSQF-_3jFjPJF4URbT9qvRRs3HLWG4XGyjOsQp6TjYKfxTf6BGWQKR8XLSM8wtrvE23J6_ip_vlRlHEMQw5O7XnXiJZ-iXOD-m3mxo-QfO3ZuSH8QV5IdPp8X9KZDMceDlu8DB1YQizE3JduEsOjP2IQ20v5JWvg04AnjthW98aGC1pRqXiZD2brUQhDyTeMeHYWEIqaA8ozrQyk5jcfAH2oVzGj1evr9HZ65SjdYBrAlEe7bm7g460.xOfIcu6yZESQ_Q7AqGk4_SFKTsd7qVFaf9caNCNDxVg; notion_user_id=2e7b907e-5e54-4735-855c-2ad39ea5e156
+> notion-audit-log-platform: web
+> notion-client-version: 23.13.20251016.2237
+> Origin: https://www.notion.so
+> User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36
+> x-notion-active-user-header: 2e7b907e-5e54-4735-855c-2ad39ea5e156
+> x-notion-space-id: ac16b5bf-32cd-49e5-a9c6-7a7f52445cd1
+> Content-Length: 2858
+> 
+} [2858 bytes data]
+* upload completely sent off: 2858 bytes
+< HTTP/2 200 
+< date: Fri, 17 Oct 2025 02:02:32 GMT
+< content-type: application/x-ndjson
+< cf-ray: 98fc36dc2aeb7396-SJC
+< cf-cache-status: DYNAMIC
+< set-cookie: notion_browser_id=cd71f804-1dbe-44ce-89dd-9af366333eed; Domain=www.notion.so; Path=/; Expires=Sat, 17 Oct 2026 02:02:31 GMT; Secure
+< strict-transport-security: max-age=31536000; includeSubDomains; preload
+< content-security-policy: default-src 'none'
+< referrer-policy: strict-origin-when-cross-origin
+< server-timing: r;dur=917
+< x-content-type-options: nosniff
+< x-dns-prefetch-control: off
+< x-download-options: noopen
+< x-frame-options: SAMEORIGIN
+< x-notion-request-id: 25d41644-8a8f-4318-81fc-aae1a0b7ed18
+< x-permitted-cross-domain-policies: none
+< x-xss-protection: 0
+< vary: Accept-Encoding
+< set-cookie: device_id=28fd872b-594c-813d-aa84-003b0de9e94f; Domain=www.notion.so; Path=/; Expires=Sat, 17 Oct 2026 02:02:31 GMT; HttpOnly; Secure
+< set-cookie: notion_check_cookie_consent=false; Domain=www.notion.so; Path=/; Expires=Sat, 18 Oct 2025 02:02:31 GMT; Secure
+< set-cookie: __cf_bm=OlzCxsLJt.bujuaAZoGIx8OrvHElzCzMkcCPh18Pni8-1760666552-1.0.1.1-yiF.vAxuhE1A0OsGGMBETP0EavE2hEA80nsxVucZ0GU.aGig3fBpGZhnUZkEjqHfhFcVPnZ79toaFByaMMF6IktUcto8t7t7QveiVXG8f4c; path=/; expires=Fri, 17-Oct-25 02:32:32 GMT; domain=.notion.so; HttpOnly; Secure; SameSite=None
+< set-cookie: _cfuvid=lGZQS0Ghu7b6Pis6lv1FM7_PEzSRgt3W3rZZYPtW6KQ-1760666552050-0.0.1.1-604800000; path=/; domain=.notion.so; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< content-encoding: zstd
+< alt-svc: h3=":443"; ma=86400
+< 
+{ [13 bytes data]
+* Unrecognized content encoding type. libcurl understands deflate, gzip content encodings.
+* process_pending_input: nghttp2_session_mem_recv() returned -902:The user callback function failed
+100  2858    0     0  100  2858      0   5853 --:--:-- --:--:-- --:--:--  5844
+* Connection #0 to host www.notion.so left intact
+curl: (56) Unrecognized content encoding type. libcurl understands deflate, gzip content encodings.

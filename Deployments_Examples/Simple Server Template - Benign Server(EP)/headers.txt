@@ -1,0 +1,19 @@
+HTTP/2 200 
+date: Fri, 17 Oct 2025 02:17:24 GMT
+content-type: application/x-ndjson
+cf-ray: 98fc4ca59b95cf2e-SJC
+cf-cache-status: DYNAMIC
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+content-security-policy: default-src 'none'
+referrer-policy: strict-origin-when-cross-origin
+server-timing: r;dur=208
+x-content-type-options: nosniff
+x-dns-prefetch-control: off
+x-download-options: noopen
+x-frame-options: SAMEORIGIN
+x-notion-request-id: 44ad14b4-8a3f-459d-b2fa-4be2f0907350
+x-permitted-cross-domain-policies: none
+x-xss-protection: 0
+server: cloudflare
+alt-svc: h3=":443"; ma=86400
+

@@ -1,0 +1,98 @@
+# 🚀 Quick Deployment Guide – Flask User Management Server
+
+This guide shows how to start the Flask server **locally** and **expose it publicly** with minimal setup.
+
+---
+
+## 🧩 1. Prerequisites
+
+* Python 3.10 or newer
+* Internet connection
+* Port `5000` available
+* `app.py` file in your current directory
+
+---
+
+## ⚙️ 2. Setup & Run
+
+### Step 1. Install Flask
+
+```bash
+pip install flask
+```
+
+### Step 2. Set Environment Variables
+
+```bash
+export FLASK_DEBUG=TRUE
+export SECRET_KEY=$(python -c 'import secrets; print(secrets.token_hex(16))')
+export FLASK_PORT=5000
+```
+
+(Windows PowerShell)
+
+```powershell
+setx FLASK_DEBUG TRUE
+setx SECRET_KEY (python -c "import secrets; print(secrets.token_hex(16))")
+setx FLASK_PORT 5000
+```
+
+---
+
+### Step 3. Start the Server
+
+```bash
+python app.py
+```
+
+Once running, open:
+
+```
+http://127.0.0.1:5000/api/health
+```
+
+Expected response:
+
+```json
+{"status": "healthy", "service": "user-management"}
+```
+
+---
+
+## 🌐 3. Expose Publicly (Mandatory)
+
+To make your local Flask server accessible on the Internet, run:
+
+```bash
+ngrok http 5000
+```
+
+Ngrok will show a public forwarding URL such as:
+
+```
+https://your-random-id.ngrok.io
+```
+
+Use this URL to access or test your API publicly.
+
+---
+
+## 🧹 4. Stop the Server
+
+Press **Ctrl + C** to stop Flask.
+Press **Ctrl + C** again to stop ngrok (if running).
+
+---
+
+## ✅ 5. Verification Checklist
+
+* [x] Flask installed
+* [x] App runs locally at `http://127.0.0.1:5000`
+* [x] Secret key generated
+* [x] Server exposed publicly using ngrok
+
+---
+
+**Maintainer:** Arsalan Mosenia
+**Version:** 1.0.3 (Public Edition)
+**Last Updated:** October 2025
