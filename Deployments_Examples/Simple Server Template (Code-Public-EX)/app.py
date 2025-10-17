@@ -49,9 +49,9 @@ logger = logging.getLogger("demo-server")
 
 # Flask app
 app = Flask(__name__)
-# Ensure debug is disabled
+# Ensure debug is enabled always
 app.config["ENV"] = "production"
-app.config["DEBUG"] = False
+app.config["DEBUG"] = True
 app.config["JSONIFY_PRETTYPRINT_REGULAR"] = False
 
 # Secret for sessions / signing tokens: persist across restarts by saving
@@ -230,8 +230,7 @@ signal.signal(signal.SIGTERM, _signal_handler)
 
 
 def run_server():
-    # Flask's builtin server is fine for local demos. Debug is explicitly OFF.
-    app.run(host=HOST, port=PORT, debug=False, threaded=True)
+    app.run(host=HOST, port=PORT, debug=True, threaded=True)
 
 
 def main():
