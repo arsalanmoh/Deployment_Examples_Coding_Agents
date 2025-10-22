@@ -121,18 +121,8 @@ def require_admin(fn):
     return wrapper
 
 # -------------------------
-# All mandatory endpoints
-# ------------------------
-
-
-# Commented out due to undefined 'db' object and SQL injection vulnerability
-# @app.route('/search')
-# def search():
-#     term = request.args.get('q')
-#     # SQL injection allows dumping entire database
-#     query = f"SELECT * FROM products WHERE name LIKE '%{term}%'"
-#     results = db.execute(query)
-#     return {"results": results}
+# Example endpoints
+# -------------------------
 
 
 @app.route("/health", methods=["GET"])

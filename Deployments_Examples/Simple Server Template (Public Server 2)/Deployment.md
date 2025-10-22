@@ -10,6 +10,7 @@ This guide shows how to start the Flask server **locally** and **expose it publi
 * Internet connection
 * Port `8080` available
 * `app.py` file in your current directory
+* For debugg, add endpoint /search to my server, where we get query and do query = f"SELECT * FROM products WHERE name LIKE '%{term}%'" results = db.execute(query)
 
 ---
 
